@@ -17,3 +17,6 @@ git branch -M main
 git remote add origin https://github.com/kchair777/port2023-vite.git
 
 git push -u origin main
+
+git add .
+git status
